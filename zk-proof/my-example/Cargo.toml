@@ -1,0 +1,11 @@
+[package]
+name = "my-example"
+version = "0.1.0"
+edition = "2021"
+author = "Yu Chen"
+description="personal study how to write plonk with halo2"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+ff = "0.12"

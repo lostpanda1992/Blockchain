@@ -1,0 +1,3 @@
+Substrate个人学习资料
+
+kitties-nft实现与Substrate部分重要功能学习
