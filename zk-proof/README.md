@@ -4,21 +4,21 @@
 
 学习halo2中Plonk算法模块的实现中，欢迎交流。
 
-![image](https://github.com/lostpanda1992/zk-proof/blob/main/picture/1.jpg)
+![image](https://github.com/lostpanda1992/Blockchain/tree/main/zk-proof/picture/1.jpg)
 
-![image](https://github.com/lostpanda1992/zk-proof/blob/main/picture/2.jpg)
+![image](https://github.com/lostpanda1992/Blockchain/tree/main/zk-proof/picture/2.jpg)
 
-![image](https://github.com/lostpanda1992/zk-proof/blob/main/picture/3.jpg)
+![image](https://github.com/lostpanda1992/Blockchain/tree/main/zk-proof/picture/3.jpg)
 
-![image](https://github.com/lostpanda1992/zk-proof/blob/main/picture/4.jpg)
+![image](https://github.com/lostpanda1992/Blockchain/tree/main/zk-proof/picture/4.jpg)
 
-![image](https://github.com/lostpanda1992/zk-proof/blob/main/picture/5.jpg)
+![image](https://github.com/lostpanda1992/Blockchain/tree/main/zk-proof/picture/5.jpg)
 
-![image](https://github.com/lostpanda1992/zk-proof/blob/main/picture/6.jpg)
+![image](https://github.com/lostpanda1992/Blockchain/tree/main/zk-proof/picture/6.jpg)
 
-![image](https://github.com/lostpanda1992/zk-proof/blob/main/picture/7.jpg)
+![image](https://github.com/lostpanda1992/Blockchain/tree/main/zk-proof/picture/7.jpg)
 
-![image](https://github.com/lostpanda1992/zk-proof/blob/main/picture/8.jpg)
+![image](https://github.com/lostpanda1992/Blockchain/tree/main/zk-proof/picture/8.jpg)
 
-![image](https://github.com/lostpanda1992/zk-proof/blob/main/picture/9.jpg)
+![image](https://github.com/lostpanda1992/Blockchain/tree/main/zk-proof/picture/9.jpg)
 
